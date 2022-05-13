@@ -1,0 +1,2 @@
+# Plant-Disease-Detection-Using-Deep-Learning
+To prevent disease transmission, it is necessary to monitor plant health and detect disease early on.Manually monitoring and detecting plant disease is immensely difficult. Furthermore, there is a vast number of areas that will necessitate effort and time.We have mentioned effective solution in this paper that will benefit the society. In this project we intend to implement a Plan Disease Detection model using VGG 16 and resnet 50 architecture and compare the results to analyse which model predicts more accurately
